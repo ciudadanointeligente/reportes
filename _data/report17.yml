@@ -7,13 +7,13 @@
       questions:
       - question: "1"
         text: "Estatutos del partido"
-        value: true
+        value: false
       - question: "2"
         text: "Declaración de principios"
         value: false
       - question: "3"
         text: "Reglamento interno"
-        value: true
+        value: false
       - question: "4"
         text: "Leyes"
         value: false
@@ -24,7 +24,7 @@
         value: true
       - question: "6"
         text: "Regiones y domicilio de las sedes del partido"
-        value: false
+        value: true
       - question: "7"
         text: "Estructura orgánica y funciones de unidades"
         value: true
@@ -51,25 +51,25 @@
       questions:
       - question: "13"
         text: "Balance anual aprobado por el Servicio Electoral"
-        value: true
+        value: false
       - question: "14"
         text: "El total de aportes, donaciones, asignaciones testamentarias y otros"
-        value: false
+        value: true
       - question: "15"
         text: "Ingresos del partido político"
         value: true
       - question: "16"
         text: "Gastos del partido político"
-        value: false
+        value: true
       - question: "17"
         text: "El monto total de las cotizaciones ordinarias y extraordinarias de sus afiliados, recibidas durante el año calendario respectivo"
         value: true
       - question: "18"
         text: "Las transferencias de fondos que efectúen con cargo a los fondos públicos que perciban"
-        value: false
+        value: true
       - question: "19"
         text: "Nómina de contrataciones sobre 20 UTM"
-        value: false
+        value: true
     - category: VI. Aportes a campañas y gastos electorales
       questions:
       - question: "20"
@@ -85,7 +85,7 @@
       questions:
       - question: "23"
         text: "Publicación de todos aquellos acuerdos, actor, decisiones o resoluciones, cualquiera sea su denominación, de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado"
-        value: true
+        value: false
     - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
       questions:
       - question: "24"
@@ -93,7 +93,7 @@
         value: true
       - question: "25"
         text: "Tipo de vínculo"
-        value: false
+        value: true
       - question: "26"
         text: "Fecha de inicio y término"
         value: true
@@ -110,7 +110,7 @@
       questions:
       - question: "30"
         text: "Fecha de la resolución"
-        value: true
+        value: false
       - question: "31"
         text: "Infracción cometida"
         value: false
@@ -127,7 +127,7 @@
         value: true
       - question: "35"
         text: "El número total de afiliados al partido"
-        value: false
+        value: true
     - category: XI. Información estadística sobre participación política dentro del partido
       questions:
       - question: "36"
@@ -135,18 +135,18 @@
         value: true
       - question: "37"
         text: "Distribución etaria de adherentes (desagregado por sexo)"
-        value: false
+        value: true
       - question: "38"
         text: "Número y porcentaje de militantes del partido que ocupan cargos directivos al interior del partido (desagregado por sexo)"
         value: true
       - question: "39"
         text: "Número de militantes del partido que se desempeñen como autoridades de gobierno (desagregado por sexo)"
-        value: false
+        value: true
     - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
       questions:
       - question: "40"
         text: "Publica cualquier otra información adicional que el partido político determine, siempre que su publicidad no sea contraria a la Constitución y las leyes"
-        value: true
+        value: false
   - partido: Revolución Democrática
     indice: 24/40
     percentage: 60
