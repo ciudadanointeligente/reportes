@@ -1,7 +1,7 @@
 2017:
-  - partido: Partido 1
-    indice: 23/40
-    percentage: 45
+  - partido: Evópoli
+    indice: 25/40
+    percentage: 63
     categories:
     - category: I. Marco Normativo
       questions:
@@ -147,9 +147,9 @@
       - question: "40"
         text: "Publica cualquier otra información adicional que el partido político determine, siempre que su publicidad no sea contraria a la Constitución y las leyes"
         value: true
-  - partido: Partido 2
-    indice: 23/40
-    percentage: 18
+  - partido: Revolución Democrática
+    indice: 24/40
+    percentage: 60
     categories:
     - category: I. Marco Normativo
       questions:
@@ -295,9 +295,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 3
+  - partido: Partido Humanista
     indice: 23/40
-    percentage: 18
+    percentage: 58
     categories:
     - category: I. Marco Normativo
       questions:
@@ -443,9 +443,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 4
-    indice: 23/40
-    percentage: 18
+  - partido: Partido Radical Socialdemócrata
+    indice: 22/40
+    percentage: 55
     categories:
     - category: I. Marco Normativo
       questions:
@@ -591,9 +591,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 5
-    indice: 23/40
-    percentage: 18
+  - partido: Partido Comunista de Chile
+    indice: 21/40
+    percentage: 53
     categories:
     - category: I. Marco Normativo
       questions:
@@ -739,9 +739,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 6
-    indice: 23/40
-    percentage: 18
+  - partido: Partido por la Democracia
+    indice: 21/40
+    percentage: 53
     categories:
     - category: I. Marco Normativo
       questions:
@@ -887,9 +887,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 7
-    indice: 23/40
-    percentage: 18
+  - partido: Partido Progresistas
+    indice: 21/40
+    percentage: 53
     categories:
     - category: I. Marco Normativo
       questions:
@@ -1035,9 +1035,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 8
-    indice: 23/40
-    percentage: 18
+  - partido: Partido Socialista
+    indice: 21/40
+    percentage: 53
     categories:
     - category: I. Marco Normativo
       questions:
@@ -1183,9 +1183,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 9
-    indice: 23/40
-    percentage: 18
+  - partido: Renovación Nacional
+    indice: 20/40
+    percentage: 50
     categories:
     - category: I. Marco Normativo
       questions:
@@ -1331,9 +1331,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 10
-    indice: 23/40
-    percentage: 18
+  - partido: Partido Ecologista Verde
+    indice: 18/40
+    percentage: 45
     categories:
     - category: I. Marco Normativo
       questions:
@@ -1479,9 +1479,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 11
-    indice: 23/40
-    percentage: 18
+  - partido: Partido Ciudadanos
+    indice: 17/40
+    percentage: 43
     categories:
     - category: I. Marco Normativo
       questions:
@@ -1627,9 +1627,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 12
-    indice: 23/40
-    percentage: 18
+  - partido: Unión Demócrata Independiente
+    indice: 14/40
+    percentage: 35
     categories:
     - category: I. Marco Normativo
       questions:
@@ -1775,9 +1775,9 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 13
-    indice: 23/40
-    percentage: 18
+  - partido: Partido Poder Ciudadano
+    indice: 8/40
+    percentage: 20
     categories:
     - category: I. Marco Normativo
       questions:
@@ -1923,8 +1923,8 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
-  - partido: Partido 14
-    indice: 23/40
+  - partido: Partido Demócrata Cristiano
+    indice: 7/40
     percentage: 18
     categories:
     - category: I. Marco Normativo
