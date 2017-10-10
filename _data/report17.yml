@@ -451,13 +451,13 @@
       questions:
       - question: "1"
         text: "Estatutos del partido"
-        value: false
+        value: true
       - question: "2"
         text: "Declaración de principios"
         value: false
       - question: "3"
         text: "Reglamento interno"
-        value: false
+        value: true
       - question: "4"
         text: "Leyes"
         value: false
@@ -477,7 +477,7 @@
         value: false
       - question: "9"
         text: "Integrantes del Órgano Ejecutivo y del Órgano Contralor"
-        value: false
+        value: true
     - category: III. Pactos electorales que integran
       questions:
       - question: "10"
@@ -521,7 +521,7 @@
         value: true
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
-        value: false
+        value: true
       - question: "22"
         text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
         value: false
@@ -534,19 +534,19 @@
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
@@ -669,7 +669,7 @@
         value: true
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
-        value: false
+        value: true
       - question: "22"
         text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
         value: false
@@ -677,24 +677,24 @@
       questions:
       - question: "23"
         text: "Publicación de todos aquellos acuerdos, actor, decisiones o resoluciones, cualquiera sea su denominación, de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado"
-        value: false
+        value: true
     - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
@@ -773,7 +773,7 @@
         value: false
       - question: "9"
         text: "Integrantes del Órgano Ejecutivo y del Órgano Contralor"
-        value: false
+        value: true
     - category: III. Pactos electorales que integran
       questions:
       - question: "10"
@@ -817,7 +817,7 @@
         value: true
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
-        value: false
+        value: true
       - question: "22"
         text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
         value: false
@@ -825,24 +825,24 @@
       questions:
       - question: "23"
         text: "Publicación de todos aquellos acuerdos, actor, decisiones o resoluciones, cualquiera sea su denominación, de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado"
-        value: false
+        value: true
     - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
@@ -895,16 +895,16 @@
       questions:
       - question: "1"
         text: "Estatutos del partido"
-        value: false
+        value: true
       - question: "2"
         text: "Declaración de principios"
-        value: false
+        value: true
       - question: "3"
         text: "Reglamento interno"
-        value: false
+        value: true
       - question: "4"
         text: "Leyes"
-        value: false
+        value: true
     - category: II. Datos de identificación
       questions:
       - question: "5"
@@ -912,7 +912,7 @@
         value: true
       - question: "6"
         text: "Regiones y domicilio de las sedes del partido"
-        value: true
+        value: false
       - question: "7"
         text: "Estructura orgánica y funciones de unidades"
         value: true
@@ -921,7 +921,7 @@
         value: false
       - question: "9"
         text: "Integrantes del Órgano Ejecutivo y del Órgano Contralor"
-        value: false
+        value: true
     - category: III. Pactos electorales que integran
       questions:
       - question: "10"
@@ -957,7 +957,7 @@
         value: true
       - question: "19"
         text: "Nómina de contrataciones sobre 20 UTM"
-        value: true
+        value: false
     - category: VI. Aportes a campañas y gastos electorales
       questions:
       - question: "20"
@@ -978,19 +978,19 @@
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
