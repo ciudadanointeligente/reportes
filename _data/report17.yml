@@ -217,7 +217,7 @@
         value: true
       - question: "19"
         text: "Nómina de contrataciones sobre 20 UTM"
-        value: true
+        value: false
     - category: VI. Aportes a campañas y gastos electorales
       questions:
       - question: "20"
@@ -225,7 +225,7 @@
         value: true
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
-        value: false
+        value: true
       - question: "22"
         text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
         value: false
@@ -247,7 +247,7 @@
         value: true
       - question: "27"
         text: "Descripción del vínculo"
-        value: false
+        value: true
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
         value: true
@@ -365,7 +365,7 @@
         value: true
       - question: "19"
         text: "Nómina de contrataciones sobre 20 UTM"
-        value: true
+        value: false
     - category: VI. Aportes a campañas y gastos electorales
       questions:
       - question: "20"
@@ -373,7 +373,7 @@
         value: true
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
-        value: false
+        value: true
       - question: "22"
         text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
         value: false
@@ -395,7 +395,7 @@
         value: true
       - question: "27"
         text: "Descripción del vínculo"
-        value: false
+        value: true
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
         value: true
