@@ -295,3 +295,1779 @@
       - question: "40"
         text: "Estatutos del partido"
         value: true
+  - partido: Partido 3
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 4
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 5
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 6
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 7
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 8
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 9
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 10
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 11
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 12
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 13
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
+  - partido: Partido 14
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
