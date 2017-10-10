@@ -1926,7 +1926,7 @@
   - partido: Partido Demócrata Cristiano
     indice: 7/40
     percentage: 20
-    categories:false
+    categories:
     - category: I. Marco Normativo
       questions:
       - question: "1"
