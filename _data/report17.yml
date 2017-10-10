@@ -1069,7 +1069,7 @@
         value: false
       - question: "9"
         text: "Integrantes del Órgano Ejecutivo y del Órgano Contralor"
-        value: false
+        value: true
     - category: III. Pactos electorales que integran
       questions:
       - question: "10"
@@ -1113,7 +1113,7 @@
         value: true
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
-        value: false
+        value: true
       - question: "22"
         text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
         value: false
@@ -1121,24 +1121,24 @@
       questions:
       - question: "23"
         text: "Publicación de todos aquellos acuerdos, actor, decisiones o resoluciones, cualquiera sea su denominación, de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado"
-        value: false
+        value: true
     - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
@@ -1217,7 +1217,7 @@
         value: false
       - question: "9"
         text: "Integrantes del Órgano Ejecutivo y del Órgano Contralor"
-        value: false
+        value: true
     - category: III. Pactos electorales que integran
       questions:
       - question: "10"
@@ -1261,7 +1261,7 @@
         value: true
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
-        value: false
+        value: true
       - question: "22"
         text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
         value: false
@@ -1274,19 +1274,19 @@
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
@@ -1370,7 +1370,7 @@
       questions:
       - question: "10"
         text: "¿Cumple con informar si es o no parte de algún pacto electoral?"
-        value: true
+        value: false
     - category: IV. Declaraciones de intereses y patrimonio
       questions:
       - question: "11"
@@ -1409,7 +1409,7 @@
         value: true
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
-        value: false
+        value: true
       - question: "22"
         text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
         value: false
@@ -1422,19 +1422,19 @@
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
@@ -1513,7 +1513,7 @@
         value: false
       - question: "9"
         text: "Integrantes del Órgano Ejecutivo y del Órgano Contralor"
-        value: false
+        value: true
     - category: III. Pactos electorales que integran
       questions:
       - question: "10"
@@ -1523,7 +1523,7 @@
       questions:
       - question: "11"
         text: "Declaraciones de intereses y patrimonio de candidatos"
-        value: true
+        value: false
       - question: "12"
         text: "Declaración de intereses y patrimonios de los miembros del Órgano Ejecutivo"
         value: false
@@ -1543,21 +1543,21 @@
         value: true
       - question: "17"
         text: "El monto total de las cotizaciones ordinarias y extraordinarias de sus afiliados, recibidas durante el año calendario respectivo"
-        value: true
+        value: false
       - question: "18"
         text: "Las transferencias de fondos que efectúen con cargo a los fondos públicos que perciban"
         value: true
       - question: "19"
         text: "Nómina de contrataciones sobre 20 UTM"
-        value: true
+        value: false
     - category: VI. Aportes a campañas y gastos electorales
       questions:
       - question: "20"
         text: "Registro de gastos efectuados en las campañas electorales (letra e) del art. 33 de la ley Nº 19.884)"
-        value: true
+        value: false
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
-        value: false
+        value: true
       - question: "22"
         text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
         value: false
@@ -1565,24 +1565,24 @@
       questions:
       - question: "23"
         text: "Publicación de todos aquellos acuerdos, actor, decisiones o resoluciones, cualquiera sea su denominación, de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado"
-        value: false
+        value: true
     - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
@@ -1688,7 +1688,7 @@
         value: true
       - question: "16"
         text: "Gastos del partido político"
-        value: true
+        value: false
       - question: "17"
         text: "El monto total de las cotizaciones ordinarias y extraordinarias de sus afiliados, recibidas durante el año calendario respectivo"
         value: true
@@ -1697,15 +1697,15 @@
         value: true
       - question: "19"
         text: "Nómina de contrataciones sobre 20 UTM"
-        value: true
+        value: false
     - category: VI. Aportes a campañas y gastos electorales
       questions:
       - question: "20"
         text: "Registro de gastos efectuados en las campañas electorales (letra e) del art. 33 de la ley Nº 19.884)"
-        value: true
+        value: false
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
-        value: false
+        value: true
       - question: "22"
         text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
         value: false
@@ -1718,19 +1718,19 @@
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
@@ -1766,10 +1766,10 @@
         value: true
       - question: "38"
         text: "Número y porcentaje de militantes del partido que ocupan cargos directivos al interior del partido (desagregado por sexo)"
-        value: true
+        value: false
       - question: "39"
         text: "Número de militantes del partido que se desempeñen como autoridades de gobierno (desagregado por sexo)"
-        value: true
+        value: false
     - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
       questions:
       - question: "40"
@@ -1803,7 +1803,7 @@
         value: true
       - question: "7"
         text: "Estructura orgánica y funciones de unidades"
-        value: true
+        value: false
       - question: "8"
         text: " Organigrama"
         value: false
@@ -1819,7 +1819,7 @@
       questions:
       - question: "11"
         text: "Declaraciones de intereses y patrimonio de candidatos"
-        value: true
+        value: false
       - question: "12"
         text: "Declaración de intereses y patrimonios de los miembros del Órgano Ejecutivo"
         value: false
@@ -1830,22 +1830,22 @@
         value: false
       - question: "14"
         text: "El total de aportes, donaciones, asignaciones testamentarias y otros"
-        value: true
+        value: false
       - question: "15"
         text: "Ingresos del partido político"
-        value: true
+        value: false
       - question: "16"
         text: "Gastos del partido político"
         value: true
       - question: "17"
         text: "El monto total de las cotizaciones ordinarias y extraordinarias de sus afiliados, recibidas durante el año calendario respectivo"
-        value: true
+        value: false
       - question: "18"
         text: "Las transferencias de fondos que efectúen con cargo a los fondos públicos que perciban"
-        value: true
+        value: false
       - question: "19"
         text: "Nómina de contrataciones sobre 20 UTM"
-        value: true
+        value: false
     - category: VI. Aportes a campañas y gastos electorales
       questions:
       - question: "20"
@@ -1866,19 +1866,19 @@
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
@@ -1900,7 +1900,7 @@
       questions:
       - question: "34"
         text: "Requisitos para la afiliación al partido"
-        value: true
+        value: false
       - question: "35"
         text: "El número total de afiliados al partido"
         value: true
@@ -1914,10 +1914,10 @@
         value: true
       - question: "38"
         text: "Número y porcentaje de militantes del partido que ocupan cargos directivos al interior del partido (desagregado por sexo)"
-        value: true
+        value: false
       - question: "39"
         text: "Número de militantes del partido que se desempeñen como autoridades de gobierno (desagregado por sexo)"
-        value: true
+        value: false
     - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
       questions:
       - question: "40"
@@ -1926,7 +1926,7 @@
   - partido: Partido Demócrata Cristiano
     indice: 7/40
     percentage: 20
-    categories:
+    categories:false
     - category: I. Marco Normativo
       questions:
       - question: "1"
@@ -1978,27 +1978,27 @@
         value: false
       - question: "14"
         text: "El total de aportes, donaciones, asignaciones testamentarias y otros"
-        value: true
+        value: false
       - question: "15"
         text: "Ingresos del partido político"
-        value: true
+        value: false
       - question: "16"
         text: "Gastos del partido político"
-        value: true
+        value: false
       - question: "17"
         text: "El monto total de las cotizaciones ordinarias y extraordinarias de sus afiliados, recibidas durante el año calendario respectivo"
-        value: true
+        value: false
       - question: "18"
         text: "Las transferencias de fondos que efectúen con cargo a los fondos públicos que perciban"
-        value: true
+        value: false
       - question: "19"
         text: "Nómina de contrataciones sobre 20 UTM"
-        value: true
+        value: false
     - category: VI. Aportes a campañas y gastos electorales
       questions:
       - question: "20"
         text: "Registro de gastos efectuados en las campañas electorales (letra e) del art. 33 de la ley Nº 19.884)"
-        value: true
+        value: false
       - question: "21"
         text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
         value: false
@@ -2014,19 +2014,19 @@
       questions:
       - question: "24"
         text: "Nombre y RUT de la entidad en la que participa"
-        value: true
+        value: false
       - question: "25"
         text: "Tipo de vínculo"
-        value: true
+        value: false
       - question: "26"
         text: "Fecha de inicio y término"
-        value: true
+        value: false
       - question: "27"
         text: "Descripción del vínculo"
         value: false
       - question: "28"
         text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
-        value: true
+        value: false
       - question: "29"
         text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
         value: false
@@ -2056,16 +2056,16 @@
       questions:
       - question: "36"
         text: "Número total y porcentaje de adherentes (desagregado por sexo)"
-        value: true
+        value: false
       - question: "37"
         text: "Distribución etaria de adherentes (desagregado por sexo)"
-        value: true
+        value: false
       - question: "38"
         text: "Número y porcentaje de militantes del partido que ocupan cargos directivos al interior del partido (desagregado por sexo)"
-        value: true
+        value: false
       - question: "39"
         text: "Número de militantes del partido que se desempeñen como autoridades de gobierno (desagregado por sexo)"
-        value: true
+        value: false
     - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
       questions:
       - question: "40"
