@@ -102,10 +102,10 @@ layout: default
                 <div class="panel panel-default">
                   <div class="panel-body legend-body">
                     <div class="row">
-                      <div class="col-xs-8 col-sm-8 col-md-8">
+                      <div class="col-xs-9 col-sm-9 col-md-9">
                         <p>Ítem</p>
                       </div>
-                      <div class="col-xs-4 col-sm-4 col-md-4 text-center">
+                      <div class="col-xs-3 col-sm-3 col-md-3 text-center">
                         <p>¿Informado?</p>
                       </div>
                     </div>
@@ -119,10 +119,10 @@ layout: default
                   <div class="panel-body category-body">
                     {% for q in c.questions %}
                     <div class="row">
-                      <div class="col-xs-8 col-sm-8 col-md-8">
+                      <div class="col-xs-9 col-sm-9 col-md-9">
                         <p><span class="badge">{{ q.question }}</span> {{ q.text }}</p>
                       </div>
-                      <div class="col-xs-4 col-sm-4 col-md-4 text-center">
+                      <div class="col-xs-3 col-sm-3 col-md-3 text-center">
                         {% if q.value ==true %}
                           <i class="fa fa-check fa-lg" aria-hidden="true" style="color: #1AC0A4;"></i>
                         {% endif %}
