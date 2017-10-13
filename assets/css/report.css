@@ -33,6 +33,11 @@ h4{
   letter-spacing: 2px;
   color: white;
 }
+.small-note{
+  font-size: 12px;
+  font-weight: 700;
+  color: #F28269;
+}
 #report-title{
   background-color: white;
   padding: 0 0 60px;
@@ -87,11 +92,9 @@ h4{
   border: 3px solid #06B9BF;
   border-radius: 10px;
   padding: 10px 15px 0px 15px;
-  font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+  font-family: 'Karla', sans-serif;
   font-weight: 700;
-  font-size: 9px;
+  font-size: 12px;
   color: white;
 }
 .category-body{
